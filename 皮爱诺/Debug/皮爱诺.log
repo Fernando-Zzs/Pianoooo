@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\Administrator\Desktop\黑框框\皮爱诺\皮爱诺\曲谱资源.h(1,1): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\Administrator\Desktop\黑框框\皮爱诺\皮爱诺\源.cpp(1278): warning C4715: “translate”: 不是所有的控件路径都返回值
+  皮爱诺.vcxproj -> C:\Users\Administrator\Desktop\黑框框\皮爱诺\Debug\皮爱诺.exe

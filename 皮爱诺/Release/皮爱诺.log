@@ -1,0 +1,12 @@
+﻿  皮爱诺.cpp
+C:\Users\Administrator\Desktop\黑框框\皮爱诺\皮爱诺\曲谱资源.h(1,1): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\Administrator\Desktop\黑框框\皮爱诺\皮爱诺\皮爱诺.cpp(303,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\黑框框\皮爱诺\皮爱诺\皮爱诺.cpp(303,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\黑框框\皮爱诺\皮爱诺\皮爱诺.cpp(307,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\黑框框\皮爱诺\皮爱诺\皮爱诺.cpp(307,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  1 of 39 functions ( 2.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  皮爱诺.vcxproj -> C:\Users\Administrator\Desktop\黑框框\皮爱诺\Release\皮爱诺.exe
